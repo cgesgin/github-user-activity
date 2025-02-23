@@ -1,7 +1,5 @@
 # 🎯 Overview
-This project is a simple console application designed to retrieve user activity by interacting with the GitHub API. The user enters a GitHub username and the program retrieves and displays various activities such as commits, opened issues and starred repositories. The goal of this project is to provide a quick and easy way to track GitHub user activity through a command line interface. This project was created to contribute to the Roadmap.sh challenge. For more information and details on how to contribute, you can check this link: 
-
-        https://roadmap.sh/projects/github-user-activity
+Solution to the roadmap.sh project https://roadmap.sh/projects/github-user-activity
 
 ## 🔍 Features:
 
